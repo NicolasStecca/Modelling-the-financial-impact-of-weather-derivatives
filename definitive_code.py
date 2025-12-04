@@ -1,6 +1,9 @@
-""" This code is created for the case study of Buenos Aires, 
-    the code for Oslo and Bahrain cases is identical but with a refinement
-    for the EGARCH model """
+""" This code is created for the case study of Buenos Aires.
+    It was used also for the case of Oslo and Bahrain but the function got
+    lost via a laptop mulfunction, it will be updated soon.
+    The only significant difference is in the recursive equation of the 
+    ARMA-GARCH simulations
+    """
 
 
 ###**IMPORTAZIONE MODULI**
