@@ -1,3 +1,7 @@
+""" This code is created for the case study of Buenos Aires, 
+    the code for Oslo and Bahrain cases is identical but with a refinement
+    for the EGARCH model """
+
 
 ###**IMPORTAZIONE MODULI**
 """
